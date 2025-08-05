@@ -23,7 +23,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 
 ## 🔗 Live Demo
 
-You can view the live version here: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)  
+You can view the live version here:(https://myportfolio-ten-virid-62.vercel.app/) 
 > (Update this once you deploy it via GitHub Pages)
 
 ## 📁 Folder Structure
