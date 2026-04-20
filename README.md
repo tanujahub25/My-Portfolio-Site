@@ -18,7 +18,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 
 ## 📷 Preview
 
-<img width="1835" height="839" alt="Screenshot 2025-08-05 113612" src="https://github.com/user-attachments/assets/936d21bc-b267-4f4c-b285-d13583d0598c" />
+<img width="1885" height="910" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f0fc37f2-8dc0-4202-a0ed-a69405b08d83" />
 
 
 ## 🔗 Live Demo
