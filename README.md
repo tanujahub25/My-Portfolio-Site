@@ -21,9 +21,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 <img width="1885" height="910" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f0fc37f2-8dc0-4202-a0ed-a69405b08d83" />
 
 
-## 🔗 Live Demo
-
-You can view the live version here:(https://myportfolio-ten-virid-62.vercel.app/) 
+## 🔗 Commit 
 > (Update this once you deploy it via GitHub Pages)
 
 ## 📁 Folder Structure
