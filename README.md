@@ -40,9 +40,9 @@ You can view the live version here:(https://myportfolio-ten-virid-62.vercel.app/
 
 Feel free to reach out:
 
-- 📧 Email: akshat.srivastava1564@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akshat-kumar-srivastava-5a1a59251)
-- 💻 [GitHub](https://github.com/Akshatsrivastava26)
+- 📧 Email: tanuja2520@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanuja-kumari-a58879371)
+- 💻 [GitHub](https://github.com/tanujahub25)
 
 ---
 
